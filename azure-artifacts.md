@@ -1,4 +1,4 @@
-Great question! In Azure Pipelines (and CI/CD in general), **artifacts** are files or packages that are generated during a build and are **saved, published, and shared** between stages or pipelines.
+In Azure Pipelines (and CI/CD in general), **artifacts** are files or packages that are generated during a build and are **saved, published, and shared** between stages or pipelines.
 
 ---
 
